@@ -2,6 +2,8 @@
 
 Sistema de gestão escolar completo para acompanhamento de notas, médias, saúde e desempenho acadêmico.
 
+> Site publicado: https://acmahrtins-arch.github.io/Boletim-ZMART-/
+
 ## 🌟 Funcionalidades
 
 ### 📊 Gestão Acadêmica
